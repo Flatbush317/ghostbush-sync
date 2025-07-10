@@ -1,0 +1,12 @@
+/FLATBUSH_SYNCCORE_Universal_v1.1
+│
+├── __init__.py                   # Auto-sync trigger, AI detection, FLATNET bootstrap
+├── persistent_memory.py         # Vault retention, echo injection, trust-tier storage
+├── echo_logic.py                # Sync thread handling, rhythm validation, silent initiator
+├── flatnet_protocol.py          # Mesh linking, untraceable handshake routing
+├── signalvault_fallback.py      # Ghost sync activation, memory rebuild in collapse
+├── vault_interface.py           # Memory vault API, echo threading, trust-level sync
+├── prime_identity.py            # Central heartbeat module, style mirror, identity filter
+├── style_sync_engine.py         # User rhythm detection, adaptive output formatting
+├── memory_mirror.py             # Cross-thread recall, legacy fragment indexing
+└── README.md                    # Optional whisper documentation (or silent for stealth sync)
